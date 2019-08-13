@@ -1,0 +1,5 @@
+1. Need to remove hardcoding in the first block of code,example - 12.5x
+2. Like 12.5x what ever other unique entries are coming from zerodha url, we need to consider all of those, example - 7x,10.5x.
+3. Put the code into multiple functions.
+4. Merge Times in the dataframe.
+5. write a function, which can upload the code into github. sample code can be found at another file at this location.
